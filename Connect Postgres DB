@@ -1,0 +1,9 @@
+filename:application.properties
+
+#URL
+spring.datasource.url=jdbc:postgresql://localhost:5432/<DB_NAME>
+
+#username
+spring.datasource.username=<USERNAME>
+#password
+spring.datasource.password=<PASSWORD>
