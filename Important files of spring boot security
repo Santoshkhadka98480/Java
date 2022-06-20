@@ -1,0 +1,5 @@
+Authentication: The identify id users are checked for providinf the access to the system. 
+  User is verified. Validating that users are whom they claim to be. 
+Authorization: Giving the users permission to access a specfic resourcesor function. 
+Filter: A filter is an object that is invoked at the preprocessing and postprocessing of a request.
+
